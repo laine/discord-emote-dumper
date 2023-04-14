@@ -14,6 +14,9 @@ npm install readline-sync
 ## Disclaimer.
 I'm not going to provide instructions to obtain your discord token but google is your best friend. I'm also not responsible for any account closures or bans that may incur upon use. I've used this for the last 4-5 years I've had it sitting on my disk and haven't had any issues.
 
+## Showcase.
+[![Showcase](https://i.imgur.com/B4nC5xG.png)](https://streamable.com/2vcq2d)
+
 ## Usage.
 ```bash
 node main.js
